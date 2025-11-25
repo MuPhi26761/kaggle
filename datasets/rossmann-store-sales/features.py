@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 25 21:53:01 2025
-
-@author: sachadegoix
-"""
-
 def features(df):
     df = df.sort_values(['Store','Date'])
     

@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 25 22:15:48 2025
-
-@author: sachadegoix
-"""
-
 from features import features
 from processing import load_data, time_features
 from model import train_lgbm

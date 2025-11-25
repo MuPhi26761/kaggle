@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 25 21:33:58 2025
-
-@author: sachadegoix
-"""
-
 import lightgbm as lgb
 from sklearn.metrics import mean_squared_error
 
